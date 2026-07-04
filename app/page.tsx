@@ -94,7 +94,7 @@ export default function Home() {
           </nav>
 
           <a
-            href="https://wa.me/+60 19-262 1497"
+            href="https://wa.me/60192621497"
             className="rounded-full bg-orange-500 px-5 py-3 text-sm font-bold text-white shadow-lg shadow-orange-500/20 transition hover:bg-orange-600"
           >
             Request Quotation
@@ -354,7 +354,7 @@ export default function Home() {
                   Email
                 </p>
                 <p className="mt-2 text-xl font-bold">
-                  arzairiman.ariffin@gmail.com
+                  iaglobal.eng@gmail.com
                 </p>
               </div>
 
