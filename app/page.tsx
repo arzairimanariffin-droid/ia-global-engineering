@@ -94,7 +94,7 @@ export default function Home() {
           </nav>
 
           <a
-            href="https://wa.me/60192621494"
+            href="https://wa.me/0192621494"
             className="rounded-full bg-orange-500 px-5 py-3 text-sm font-bold text-white shadow-lg shadow-orange-500/20 transition hover:bg-orange-600"
           >
             Request Quotation
